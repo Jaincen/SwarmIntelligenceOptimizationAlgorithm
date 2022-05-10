@@ -9,7 +9,7 @@
 import numpy as np
 import sys
 import math
-import test_function
+from Common import test_function
 
 
 class WOA:
